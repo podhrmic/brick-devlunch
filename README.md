@@ -15,7 +15,7 @@ Haskell Ivy plotter
 
 Usage: haskell-plotter (-m|--message MESSAGE) (-n|--name NAME) [-p|--period T]
                        [-i|--field INDEX]
-  Plots data from Ivy bus in terminal. For example: brick-devlunch -m
+  Plots data from Ivy bus in terminal. For example: haskell-plotter -m
   TELEMETRY_STATUS -n ping_time -p 1.0 -i 11
 
 Available options:
